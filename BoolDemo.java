@@ -5,5 +5,6 @@ public class BoolDemo {
         System.out.println("b is " + b);
         b = true;
         System.out.println("b is " + b);
+        
     }
 }
